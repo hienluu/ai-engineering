@@ -1,5 +1,8 @@
 ## Project Ideas
 
+### AI Agents
+* Learn LangGraph
+* Learn Pydantic
 
 
 ### Fine-tuning

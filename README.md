@@ -1,4 +1,5 @@
-# ai-engineering
+# AI Engineering 
+Useful resources and project ideas to try
 
 
 #### Resources

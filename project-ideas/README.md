@@ -4,6 +4,9 @@
 * Learn LangGraph
 * Learn Pydantic
 
+### RAG
+* [FireCrawl firestarter: Instant AI Chatbots for Any Website](https://github.com/firecrawl/firestarter)
+  * customize it to use local chroma DB and other LLM provider
 
 ### Fine-tuning
 * Fine-tuning a model using Modal

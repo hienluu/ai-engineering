@@ -1,5 +1,9 @@
 ## This files contains basic information about workng with UV
 
+### pin a Python version for uv to use
+uv python install "version"
+
+
 ### creating a new project  [documentation](https://docs.astral.sh/uv/concepts/projects/init/)
 uv init --python 3.xx
 

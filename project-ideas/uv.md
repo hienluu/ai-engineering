@@ -14,7 +14,7 @@ uv venv
 
 uv venv <name>
 
-### create and activate a new enn with specific python version
+### create and activate a new environment with specific python version
 uv venv --python <version>
 
 ### activate an env

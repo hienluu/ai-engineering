@@ -20,7 +20,7 @@ Useful resources and project ideas to try
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64)
 * [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)
-* [AIE Code] (https://www.youtube.com/watch?v=xmbSQz-PNMM)
+* [AIE Code](https://www.youtube.com/watch?v=xmbSQz-PNMM)
 * 
 #### To remember
 git push -u origin main

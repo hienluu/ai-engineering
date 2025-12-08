@@ -17,5 +17,10 @@ Useful resources and project ideas to try
 * [RAG Systems: arXiv Paper Curator - The Mother of AI Project](https://github.com/jamwithai/arxiv-paper-curator)
 * [Sebastian Raschka - Build a LLM from scratch](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 
+#### Conferences
+* [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64)
+* [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)
+* [AIE Code] (https://www.youtube.com/watch?v=xmbSQz-PNMM)
+* 
 #### To remember
 git push -u origin main

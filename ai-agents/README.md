@@ -3,6 +3,9 @@
 #### Overview
 * [Intro to Agents - Create an Agent from Scratch (No Frameworks)](https://www.youtube.com/watch?v=vHDwpoSFdQY)
 * [How to build an agent : the emperor has no clothes](https://ampcode.com/how-to-build-an-agent)
+* [Google]
+  *  [Agents](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view)
+  *  [Agents Companion](https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view)
 
 #### Multi-agent
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)

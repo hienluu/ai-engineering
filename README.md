@@ -17,6 +17,7 @@ Useful resources and project ideas to try
 * [RAG Systems: arXiv Paper Curator - The Mother of AI Project](https://github.com/jamwithai/arxiv-paper-curator)
 * [Sebastian Raschka - Build a LLM from scratch](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 * [AI Tutorial Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
+* [DeepSeek from Scratch](https://github.com/DevJadhav/deepseek-from-scratch)
 
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64)

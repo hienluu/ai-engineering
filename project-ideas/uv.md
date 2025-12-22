@@ -7,9 +7,10 @@ uv python install "version"
 ### creating a new project  [documentation](https://docs.astral.sh/uv/concepts/projects/init/)
 uv init --python 3.xx
 
+### create a project. It will create a folder w/ the provided name
 uv init <name>
 
-### create
+### create a virtual environment
 uv venv
 
 uv venv <name>

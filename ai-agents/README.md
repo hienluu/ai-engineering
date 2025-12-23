@@ -14,5 +14,8 @@
 #### LangGraph
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
 
+#### AI Agent Evaluation
+* [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)
+  
 #### Course 
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

@@ -16,6 +16,8 @@
 
 #### AI Agent Evaluation
 * [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)
-  
+
+#### AI Agent Use Cases
+* [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 #### Course 
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

@@ -14,6 +14,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
   * [youtbue video - Create an Open Deep Research Multi-Agent in Python (Step by Step)](https://www.youtube.com/watch?v=vHBRmXpDIFY)
   * [github repo](https://github.com/alejandro-ao/open-deep-research-w-firecrawl)
+
 #### LangGraph
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
 
@@ -23,8 +24,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### AI Agent Use Cases
 * [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 
-#### Course 
+#### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
+* [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 
 #### Papers
 * [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)

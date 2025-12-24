@@ -1,5 +1,8 @@
 ### Resources for AI Agents
 
+AI systems: autonomous AI systems capable of perceiving their environment, invoking external tools,
+managing memory, and executing multi-step plans toward completing complex tasks
+
 #### Overview
 * [Intro to Agents - Create an Agent from Scratch (No Frameworks)](https://www.youtube.com/watch?v=vHDwpoSFdQY)
 * [How to build an agent : the emperor has no clothes](https://ampcode.com/how-to-build-an-agent)
@@ -19,5 +22,9 @@
 
 #### AI Agent Use Cases
 * [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
+
 #### Course 
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
+
+#### Papers
+* [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)

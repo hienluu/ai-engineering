@@ -35,6 +35,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Context Engineering & System Prompt
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [Claude Code System Prompt](https://github.com/kn1026/cc/blob/main/claudecode.md)
+* Context Engineering for AI Agents - lessons from building Manus
+  * [slides](https://drive.google.com/file/d/1QGJ-BrdiTGslS71sYH4OJoidsry3Ps9g/view?pli=1)
+  * [youtube video](https://www.youtube.com/watch?v=6_BcCthVvb8)
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

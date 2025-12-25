@@ -38,6 +38,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Context Engineering for AI Agents - lessons from building Manus
   * [slides](https://drive.google.com/file/d/1QGJ-BrdiTGslS71sYH4OJoidsry3Ps9g/view?pli=1)
   * [youtube video](https://www.youtube.com/watch?v=6_BcCthVvb8)
+* [Context Engineering in Manus](https://rlancemartin.github.io/2025/10/15/manus/)
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

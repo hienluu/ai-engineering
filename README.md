@@ -18,6 +18,7 @@ Useful resources and project ideas to try
 * [Sebastian Raschka - Build a LLM from scratch](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 * [AI Tutorial Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 * [DeepSeek from Scratch](https://github.com/DevJadhav/deepseek-from-scratch)
+* [LLM Course - based on the book](https://github.com/mlabonne/llm-course)
 
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64)

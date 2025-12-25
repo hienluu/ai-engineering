@@ -52,6 +52,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Project: Deep Research with LangGraph course](https://academy.langchain.com/courses/deep-research-with-langgraph)
 * [LangChain Academy](https://academy.langchain.com)
 * [Anthropic Academy](https://anthropic.skilljar.com/)
+* Google ADK
+  * [Getting started with Agent Developer Kit playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIAPgM8FmtEcFTXLLzmh4DK)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

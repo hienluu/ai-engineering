@@ -28,6 +28,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
   * Can plan and act over longer, more complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
+* [Open Deep Research Application](https://github.com/langchain-ai/open_deep_research?tab=readme-ov-file)
+  * Deep research has broken out as one of the most popular agent applications
 
  
 #### Context Engineering & System Prompt

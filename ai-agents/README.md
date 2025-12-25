@@ -24,11 +24,21 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### AI Agent Use Cases
 * [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
+  * Can plan and act over longer, more complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
+ 
+#### Context Engineering & System Prompt
+* [Claude Code System Prompt](https://github.com/kn1026/cc/blob/main/claudecode.md)
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
 * [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
+
+#### AI Agents Evaluation
+* 
+
+#### Agent Ops
+* 
 
 #### Papers
 * [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)

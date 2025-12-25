@@ -35,7 +35,12 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 
 #### AI Agents Evaluation
-* 
+* [LangSmith](https://www.langchain.com/langsmith/observability)
+* [Opik](https://www.comet.com/site/products/opik)
+* [Maxim](https://www.getmaxim.ai/docs/introduction/overview)
+* [Arize Phoenix](https://phoenix.arize.com/)
+* [Helicone](https://www.honeycomb.io)
+* [The Best AI Observability Tools in 2025: Maxim AI, LangSmith, Arize, Helicone, and Comet Opik](https://www.getmaxim.ai/articles/the-best-ai-observability-tools-in-2025-maxim-ai-langsmith-arize-helicone-and-comet-opik/)
 
 #### Agent Ops
 * 

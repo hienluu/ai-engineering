@@ -28,6 +28,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
   * Can plan and act over longer, more complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
+
  
 #### Context Engineering & System Prompt
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)
@@ -36,6 +37,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
 * [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
+* [Project: Deep Research with LangGraph course](https://academy.langchain.com/courses/deep-research-with-langgraph)
+* [LangChain Academy](https://academy.langchain.com)
+* [Anthropic Academy](https://anthropic.skilljar.com/)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

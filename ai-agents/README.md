@@ -61,6 +61,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Getting started with Agent Developer Kit playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIAPgM8FmtEcFTXLLzmh4DK)
   * [ADK - Conceptual Overview](https://www.youtube.com/watch?v=CFOBf3vMF_8)
   * [ADK documentation](https://google.github.io/adk-docs)
+  * [The Agent Factor podcast playlist](https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs)
 * DeepLearning.AI
   * [Agentic AI by Andrew Ng](https://learn.deeplearning.ai/courses/agentic-ai)
   * [Agentic Coding Assistant by Anthropic](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)

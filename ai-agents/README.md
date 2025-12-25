@@ -40,6 +40,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Maxim](https://www.getmaxim.ai/docs/introduction/overview)
 * [Arize Phoenix](https://phoenix.arize.com/)
 * [Helicone](https://www.honeycomb.io)
+* [LangFuse](https://langfuse.com/)
 * [The Best AI Observability Tools in 2025]
   * [Maxim AI, LangSmith, Arize, Helicone, and Comet Opik](https://www.getmaxim.ai/articles/the-best-ai-observability-tools-in-2025-maxim-ai-langsmith-arize-helicone-and-comet-opik/)
   * [Comet - Best LLM Observability Tools of 2025](https://www.comet.com/site/blog/llm-observability-tools/)

@@ -9,6 +9,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Google]
   *  [Agents](https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view)
   *  [Agents Companion](https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view)
+* [Claude]
+  * [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)
 
 #### Multi-agent
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
@@ -28,6 +30,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
  
 #### Context Engineering & System Prompt
+* [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [Claude Code System Prompt](https://github.com/kn1026/cc/blob/main/claudecode.md)
 
 #### Course & Tutorials

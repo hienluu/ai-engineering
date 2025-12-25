@@ -38,7 +38,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)
 * [Claude Code System Prompt](https://github.com/kn1026/cc/blob/main/claudecode.md)
 * Context Engineering for AI Agents - lessons from building Manus
-  * [slides](https://drive.google.com/file/d/1QGJ-BrdiTGslS71sYH4OJoidsry3Ps9g/view?pli=1)
+  * [slides](https://drive.google.com/file/d/1QGJ-BrdiTGslS71sYH4OJoidsry3Ps9g/view?pli=1), [slides by Lance](https://docs.google.com/presentation/d/1Z-TFQpSpqtRqWcY-rBpf7D3vmI0rnMhbhbfv01duUrk/edit?slide=id.g38aedf7fc8c_0_0#slide=id.g38aedf7fc8c_0_0)
   * [youtube video](https://www.youtube.com/watch?v=6_BcCthVvb8)
   * [blog - Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 * [Context Engineering in Manus](https://rlancemartin.github.io/2025/10/15/manus/)

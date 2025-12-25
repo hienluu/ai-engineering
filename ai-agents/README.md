@@ -1,4 +1,9 @@
+
 ### Resources for AI Agents
+<p align="center">
+<img src="./ai_agent_agentic_ai.png" width="400" height="250" />
+</p>
+
 
 AI systems: autonomous AI systems capable of perceiving their environment, invoking external tools,
 managing memory, and executing multi-step plans toward completing complex tasks

@@ -55,6 +55,11 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Google ADK
   * [Getting started with Agent Developer Kit playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIAPgM8FmtEcFTXLLzmh4DK)
   * [ADK - Conceptual Overview](https://www.youtube.com/watch?v=CFOBf3vMF_8)
+  * [ADK documentation](https://google.github.io/adk-docs)
+* DeepLearning.AI
+  * [Agentic AI by Andrew Ng](https://learn.deeplearning.ai/courses/agentic-ai)
+  * [Agentic Coding Assistant by Anthropic](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
+  * [Nvidia NeMo Agent Toolkit](https://www.deeplearning.ai/short-courses/nvidia-nat-making-agents-reliable/)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

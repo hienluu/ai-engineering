@@ -22,6 +22,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### AI Agent Evaluation
 * [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)
+* [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
 
 #### AI Agent Use Cases
 * [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)

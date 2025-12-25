@@ -23,6 +23,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### AI Agent Use Cases
 * [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
+* [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
+  * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

@@ -30,6 +30,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)
 * [Open Deep Research Application](https://github.com/langchain-ai/open_deep_research?tab=readme-ov-file)
   * Deep research has broken out as one of the most popular agent applications
+* [Anthropic - How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 
  
 #### Context Engineering & System Prompt
@@ -38,6 +39,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Context Engineering for AI Agents - lessons from building Manus
   * [slides](https://drive.google.com/file/d/1QGJ-BrdiTGslS71sYH4OJoidsry3Ps9g/view?pli=1)
   * [youtube video](https://www.youtube.com/watch?v=6_BcCthVvb8)
+  * [blog - Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 * [Context Engineering in Manus](https://rlancemartin.github.io/2025/10/15/manus/)
 
 #### Course & Tutorials

@@ -46,6 +46,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
 * [Microsoft - AI Agents for Beginners course](https://github.com/microsoft/ai-agents-for-beginners)
+* [Agentic AI Crash Course by Aishwarya](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course)
 * [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 * [Project: Deep Research with LangGraph course](https://academy.langchain.com/courses/deep-research-with-langgraph)
 * [LangChain Academy](https://academy.langchain.com)

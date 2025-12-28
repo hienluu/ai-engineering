@@ -21,7 +21,7 @@ Useful resources and project ideas to try
 * [LLM Course - based on the book](https://github.com/mlabonne/llm-course)
 
 #### Conferences
-* [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64)
+* [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)
 * [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)
 * [AIE Code](https://www.youtube.com/watch?v=xmbSQz-PNMM)
 * 

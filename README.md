@@ -20,6 +20,12 @@ Useful resources and project ideas to try
 * [DeepSeek from Scratch](https://github.com/DevJadhav/deepseek-from-scratch)
 * [LLM Course - based on the book](https://github.com/mlabonne/llm-course)
 
+#### Agentic Coding Assistants
+* [DeepLearning - Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
+  * [their github resource](https://github.com/https-deeplearning-ai/sc-claude-code-files)
+* [Claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
+
+
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)
 * [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)

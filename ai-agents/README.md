@@ -40,6 +40,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Claude Code
   * [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
   * [Things We Can Learn from Claude Code](https://kotrotsos.medium.com/things-we-can-learn-from-claude-code-67e10daa3976)
+  * [How Claude Code Works - youtube](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
 
  
 #### Context Engineering & System Prompt

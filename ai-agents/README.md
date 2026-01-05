@@ -41,6 +41,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
   * [Things We Can Learn from Claude Code](https://kotrotsos.medium.com/things-we-can-learn-from-claude-code-67e10daa3976)
   * [How Claude Code Works - youtube](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
+* [DeepTutor: AI-Powered Personalized Learning Assistant](https://github.com/HKUDS/DeepTutor)
 
  
 #### Context Engineering & System Prompt
@@ -56,6 +57,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
+  * [Agents Intensive - Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/discussion/663531)
 * [Microsoft - AI Agents for Beginners course](https://github.com/microsoft/ai-agents-for-beginners)
 * [Agentic AI Crash Course by Aishwarya](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/agentic_ai_crash_course)
 * [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)

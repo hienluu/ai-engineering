@@ -90,3 +90,4 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### Papers
 * [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)
+* [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)

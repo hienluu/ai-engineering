@@ -24,7 +24,12 @@ Useful resources and project ideas to try
 * [DeepLearning - Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)
   * [their github resource](https://github.com/https-deeplearning-ai/sc-claude-code-files)
 * [Claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
+* [Google Antigratity](https://antigravity.google/blog/introducing-google-antigravity)
 
+#### Agent Skills
+* [Agent Skill](https://agentskills.io/home)
+* [Anthropic's implementation of skills for Claude](https://github.com/anthropics/skills)
+* [Superpowers](https://github.com/obra/superpowers/tree/main)
 
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)

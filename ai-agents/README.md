@@ -22,8 +22,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [youtbue video - Create an Open Deep Research Multi-Agent in Python (Step by Step)](https://www.youtube.com/watch?v=vHBRmXpDIFY)
   * [github repo](https://github.com/alejandro-ao/open-deep-research-w-firecrawl)
 
-#### LangGraph
+#### AI Agent Frameworks
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
+* [MiroThinker is MiroMind's Flagship Research Agent Model](https://github.com/MiroMindAI/MiroThinker)
 
 #### AI Agent Evaluation
 * [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)

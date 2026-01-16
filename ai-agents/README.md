@@ -43,6 +43,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Things We Can Learn from Claude Code](https://kotrotsos.medium.com/things-we-can-learn-from-claude-code-67e10daa3976)
   * [How Claude Code Works - youtube](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
 * [DeepTutor: AI-Powered Personalized Learning Assistant](https://github.com/HKUDS/DeepTutor)
+* [AI Sales Use Case - Cerebras](https://www.youtube.com/watch?v=mwzk2rlwtZE)
 
  
 #### Context Engineering & System Prompt

@@ -31,7 +31,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
 
 #### AI Agent Use Cases
-* [100+ Use Cases For The Enterprise](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
+* [100+ Use Cases For The Enterprise - Moveworks](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
   * Can plan and act over longer, more complex tasks
   * [Implementing deepagents: a technical walkthrough](https://www.youtube.com/watch?v=TTMYJAw5tiA)

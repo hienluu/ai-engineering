@@ -45,6 +45,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [How Claude Code Works - youtube](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
 * [DeepTutor: AI-Powered Personalized Learning Assistant](https://github.com/HKUDS/DeepTutor)
 * [AI Sales Use Case - Cerebras](https://www.youtube.com/watch?v=mwzk2rlwtZE)
+* [Anthropic: How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 
  
 #### Context Engineering & System Prompt

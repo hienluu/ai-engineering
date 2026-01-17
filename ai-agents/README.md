@@ -27,6 +27,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [MiroThinker is MiroMind's Flagship Research Agent Model](https://github.com/MiroMindAI/MiroThinker)
 
 #### AI Agent Evaluation
+* [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 * [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)
 * [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
 

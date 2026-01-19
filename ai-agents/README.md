@@ -46,6 +46,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [DeepTutor: AI-Powered Personalized Learning Assistant](https://github.com/HKUDS/DeepTutor)
 * [AI Sales Use Case - Cerebras](https://www.youtube.com/watch?v=mwzk2rlwtZE)
 * [Anthropic: How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
+* [Ramp: Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 
  
 #### Context Engineering & System Prompt

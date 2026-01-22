@@ -48,6 +48,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Anthropic: How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
 * [Ramp: Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [Dexter: an autonomous financial research agent ](https://github.com/virattt/dexter)
+* [Open Source Cowork Desktop to Unlock Your Exceptional Productivity - multi-agent system](https://github.com/eigent-ai/eigent)
 
  
 #### Context Engineering & System Prompt

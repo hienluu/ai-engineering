@@ -49,6 +49,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Ramp: Why We Built Our Own Background Agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [Dexter: an autonomous financial research agent ](https://github.com/virattt/dexter)
 * [Open Source Cowork Desktop to Unlock Your Exceptional Productivity - multi-agent system](https://github.com/eigent-ai/eigent)
+* [OpenCode: Open Source Coding Agent](https://opencode.ai/)
+  * [Its github repo](https://github.com/anomalyco/opencode)
 
  
 #### Context Engineering & System Prompt

@@ -25,6 +25,8 @@ Useful resources and project ideas to try
   * [their github resource](https://github.com/https-deeplearning-ai/sc-claude-code-files)
 * [Claude code in action](https://anthropic.skilljar.com/claude-code-in-action)
 * [Google Antigratity](https://antigravity.google/blog/introducing-google-antigravity)
+* [GSD - get-shit-done](https://github.com/glittercowboy/get-shit-done)
+* [OpenCode: The open source AI coding agent](https://opencode.ai/)
 
 #### Agent Skills
 * [Agent Skill](https://agentskills.io/home)

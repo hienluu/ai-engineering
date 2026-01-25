@@ -21,6 +21,10 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
   * [youtbue video - Create an Open Deep Research Multi-Agent in Python (Step by Step)](https://www.youtube.com/watch?v=vHBRmXpDIFY)
   * [github repo](https://github.com/alejandro-ao/open-deep-research-w-firecrawl)
+* Building Multi-Agent Systems blog
+ * [part 1](https://blog.sshh.io/p/building-multi-agent-systems)
+ * [part 2](https://blog.sshh.io/p/building-multi-agent-systems-part)
+ * [part 3](https://blog.sshh.io/p/building-multi-agent-systems-part-c0c)
 
 #### AI Agent Frameworks
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
@@ -105,3 +109,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)
 * [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)
 * [Agentic Reasoning for Large Language Models - must read](https://arxiv.org/pdf/2601.12538)
+
+#### Terminology
+* Agent: refers to an entity that can act on behalf of another
+* Agency: the ability to make decisions, undertake tasks, and act for someone or something
+* Agentic AI: 

@@ -113,4 +113,4 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Terminology
 * Agent: refers to an entity that can act on behalf of another
 * Agency: the ability to make decisions, undertake tasks, and act for someone or something
-* Agentic AI: 
+* Agents have agency. They dynamically decide which tools to use and how many steps to take. The number of steps isn't predetermined, each outcome shapes what comes next.

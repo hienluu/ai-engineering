@@ -105,12 +105,13 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Agent Ops
 * 
 
-#### Papers & Blogs
+#### Papers & Blogs & Book
 * [Adaptation of Agentic AI](https://arxiv.org/pdf/2512.16301)
 * [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)
 * [Agentic Reasoning for Large Language Models - must read](https://arxiv.org/pdf/2601.12538)
 * [When Agents Actually Work](https://tmlsinsights.substack.com/p/when-to-build-agents-vs-prompt-engineering)
 * [7 Sources to Master Agents and Agentic Reasoning](https://www.turingpost.com/p/7-sources-to-master-agents-and-agentic-reasoning)
+* [Agentid Design Book](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/tree/main)
 
 #### Terminology
 * Agent: refers to an entity that can act on behalf of another

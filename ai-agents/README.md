@@ -55,6 +55,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Open Source Cowork Desktop to Unlock Your Exceptional Productivity - multi-agent system](https://github.com/eigent-ai/eigent)
 * [OpenCode: Open Source Coding Agent](https://opencode.ai/)
   * [Its github repo](https://github.com/anomalyco/opencode)
+* [OpenAI Codex CLI](https://github.com/openai/codex⁠)
+  * [Blog](https://openai.com/index/unrolling-the-codex-agent-loop/)
 
  
 #### Context Engineering & System Prompt

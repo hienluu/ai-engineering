@@ -30,7 +30,7 @@ Useful resources and project ideas to try
 
 #### Agent Skills
 * [Agent Skill](https://agentskills.io/home)
-* [Anthropic's implementation of skills for Claude](https://github.com/anthropics/skills)
+* [Anthropic's implementation of skills for Claude - skill repository](https://github.com/anthropics/skills)
 * [Superpowers](https://github.com/obra/superpowers/tree/main)
 
 #### Conferences

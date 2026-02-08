@@ -16,6 +16,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   *  [Agents Companion](https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view)
 * [Claude]
   * [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)
+    * A good one to go through and look at its cookbok
 
 #### Multi-agent
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)

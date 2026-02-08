@@ -60,6 +60,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Personal AI assistant
   * [OpenClaw](https://github.com/openclaw/openclaw)
   * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
+* [Pydantic AI](https://github.com/pydantic/pydantic-ai)
 
  
 #### Context Engineering & System Prompt

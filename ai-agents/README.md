@@ -120,6 +120,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Agentid Design Book](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/tree/main)
 
 #### Terminology
+* Workflows: systems where LLMs and tools are orchestrated through predefined code paths
 * Agent: refers to an entity that can act on behalf of another
+* Agents: systems where LLMs dynamically direct their own processes and tool usage, maintaining control over how they accomplish tasks
 * Agency: the ability to make decisions, undertake tasks, and act for someone or something
 * Agents have agency. They dynamically decide which tools to use and how many steps to take. The number of steps isn't predetermined, each outcome shapes what comes next.

@@ -57,6 +57,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Its github repo](https://github.com/anomalyco/opencode)
 * [OpenAI Codex CLI](https://github.com/openai/codex⁠)
   * [Blog](https://openai.com/index/unrolling-the-codex-agent-loop/)
+* Personal AI assistant
+  * [OpenClaw](https://github.com/openclaw/openclaw)
+  * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
 
  
 #### Context Engineering & System Prompt

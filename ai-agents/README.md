@@ -30,6 +30,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### AI Agent Frameworks
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
 * [MiroThinker is MiroMind's Flagship Research Agent Model](https://github.com/MiroMindAI/MiroThinker)
+* [Anthropid - Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
 
 #### AI Agent Evaluation
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)

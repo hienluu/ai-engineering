@@ -30,7 +30,10 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### AI Agent Frameworks
 * [LangGraph Notebooks](https://github.com/snehotosh/langgraph-notebooks)
 * [MiroThinker is MiroMind's Flagship Research Agent Model](https://github.com/MiroMindAI/MiroThinker)
-* [Anthropid - Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
+* [Anthropic - Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
+* [Pydantic AI](https://github.com/pydantic/pydantic-ai)
+* [Google ADK](https://google.github.io/adk-docs/)
+* [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
 
 #### AI Agent Evaluation
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
@@ -62,7 +65,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Personal AI assistant
   * [OpenClaw](https://github.com/openclaw/openclaw)
   * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
-* [Pydantic AI](https://github.com/pydantic/pydantic-ai)
+* [What we learned building agents at Vercel](https://vercel.com/blog/what-we-learned-building-agents-at-vercel)
 
  
 #### Context Engineering & System Prompt

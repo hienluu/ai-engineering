@@ -33,6 +33,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Anthropic - Agent SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
 * [Pydantic AI](https://github.com/pydantic/pydantic-ai)
 * [Google ADK](https://google.github.io/adk-docs/)
+  * [Google ADK: The One Tool That’s Making AI Agent Development Ridiculously Easy](https://medium.com/google-cloud/google-adk-the-one-tool-thats-making-ai-agent-development-ridiculously-easy-746e1da2b8d6)
 * [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
 
 #### AI Agent Evaluation

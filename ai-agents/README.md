@@ -64,6 +64,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Its github repo](https://github.com/anomalyco/opencode)
 * [OpenAI Codex CLI github](https://github.com/openai/codex)
   * [Blog - Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+  * [Blog - Unlocking the Codex harness](https://openai.com/index/unlocking-the-codex-harness/)
   * Should study this
 * Personal AI assistant
   * [OpenClaw](https://github.com/openclaw/openclaw)

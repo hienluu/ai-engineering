@@ -126,7 +126,13 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Agentic Reasoning for Large Language Models - must read](https://arxiv.org/pdf/2601.12538)
 * [When Agents Actually Work](https://tmlsinsights.substack.com/p/when-to-build-agents-vs-prompt-engineering)
 * [7 Sources to Master Agents and Agentic Reasoning](https://www.turingpost.com/p/7-sources-to-master-agents-and-agentic-reasoning)
-* [Agentid Design Book](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/tree/main)
+* [Agentic Design Book](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns/tree/main)
+* DeepLeaning.AI Agentic Design series
+  * [Agentic Design Patterns Part 1](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/)
+  * [Agentic Design Patterns Part 2, Reflection](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/)
+  * [Agentic Design Patterns Part 3, Tool Use](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-3-tool-use/)
+  * [Agentic Design Patterns Part 4, Planning](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning/)
+  * [Agentic Design Patterns Part 5, Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration)
 
 #### Terminology
 * Workflows: systems where LLMs and tools are orchestrated through predefined code paths

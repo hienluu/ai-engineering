@@ -33,6 +33,11 @@ Useful resources and project ideas to try
 * [Anthropic's implementation of skills for Claude - skill repository](https://github.com/anthropics/skills)
 * [Superpowers](https://github.com/obra/superpowers/tree/main)
 
+#### OpenClaw
+* [TinyClaw](https://github.com/jlia0/tinyclaw)
+* [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
+
+
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)
 * [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)

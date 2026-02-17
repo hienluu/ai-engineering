@@ -4,6 +4,8 @@ Useful resources and project ideas to try
 #### MCP
 
 #### RAG
+* [RAG-Anything github](https://github.com/HKUDS/RAG-Anything)
+  * [RAG-Anything paper](https://arxiv.org/abs/2510.12323)
 
 #### Fine-tuning
 * [Unsloth](https://docs.unsloth.ai/get-started/beginner-start-here)

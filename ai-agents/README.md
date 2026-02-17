@@ -53,6 +53,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [How Claude Code is built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
   * [Things We Can Learn from Claude Code](https://kotrotsos.medium.com/things-we-can-learn-from-claude-code-67e10daa3976)
   * [How Claude Code Works - youtube](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
+  * [Claude Code Architecture](https://vrungta.substack.com/p/claude-code-architecture-reverse)
+  * [Inside Claude Code: The Architecture of an Autonomous Agent](https://github.com/vkr11/ChainOfThought/blob/main/claude_code_architecture.md)
 * [DeepTutor: AI-Powered Personalized Learning Assistant](https://github.com/HKUDS/DeepTutor)
 * [AI Sales Use Case - Cerebras](https://www.youtube.com/watch?v=mwzk2rlwtZE)
 * [Anthropic: How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)

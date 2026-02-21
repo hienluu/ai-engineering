@@ -64,6 +64,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Open Source Cowork Desktop to Unlock Your Exceptional Productivity - multi-agent system](https://github.com/eigent-ai/eigent)
 * [OpenCode: Open Source Coding Agent](https://opencode.ai/)
   * [Its github repo](https://github.com/anomalyco/opencode)
+* [Mistral's open-source CLI coding assistant](https://github.com/mistralai/mistral-vibe)
 * [OpenAI Codex CLI github](https://github.com/openai/codex)
   * [Blog - Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
   * [Blog - Unlocking the Codex harness](https://openai.com/index/unlocking-the-codex-harness/)

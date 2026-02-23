@@ -4,7 +4,7 @@
 * [awesome-generative-ai](https://lnkd.in/gDZ6YxxY)
 * [ai-agents-for-beginners](https://lnkd.in/g9FfraMs)
 * [RAG_Techniques](https://lnkd.in/gTSBddvJ)
-* [GenAI_Agents](https://lnkd.in/gxypj_mf)
+* [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 * [AI-ML-Roadmap-from-scratch](https://lnkd.in/gU9kdy-9)
 * [Prompt-Engineering-Guide](https://lnkd.in/gUf3W-PJ)
 * [Hands-On-Large-Language-Models](https://lnkd.in/guWhCWNZ)

@@ -34,6 +34,7 @@ Useful resources and project ideas to try
 * [Agent Skill](https://agentskills.io/home)
 * [Anthropic's implementation of skills for Claude - skill repository](https://github.com/anthropics/skills)
 * [Superpowers](https://github.com/obra/superpowers/tree/main)
+* [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 #### OpenClaw
 * [TinyClaw](https://github.com/jlia0/tinyclaw)

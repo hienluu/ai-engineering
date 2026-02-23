@@ -90,6 +90,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Context Engineering: Sessions, Memory](https://drive.google.com/file/d/1JW6Q_wwvBjMz9xzOtTldFfPiF7BrdEeQ/view)
 * [Anthropic: Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
 * [Context Engineering Our Way to Long-Horizon Agents: LangChain CEO](https://www.youtube.com/watch?v=vtugjs2chdA)
+* [Context Management for Deep Agents - LangChain](https://blog.langchain.com/context-management-for-deepagents/)
 
 #### Course & Tutorials
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

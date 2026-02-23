@@ -93,6 +93,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Context Management for Deep Agents - LangChain](https://blog.langchain.com/context-management-for-deepagents/)
 
 #### Course & Tutorials
+* [UC Berkeley's Agentic AI](https://agenticai-learning.org/f25)
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
   * [Agents Intensive - Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/discussion/663531)
 * [Microsoft - AI Agents for Beginners course](https://github.com/microsoft/ai-agents-for-beginners)

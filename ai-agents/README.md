@@ -18,6 +18,12 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents)
     * A good one to go through and look at its cookbok
 
+#### Agentic Engineering
+* [Agentic Engineering Patterns by Simon Willisons](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+  * Agentic Engineering refers to building software using coding agents—tools like Claude Code and OpenAI Codex
+
+
+
 #### Multi-agent
 * [How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)
   * [youtbue video - Create an Open Deep Research Multi-Agent in Python (Step by Step)](https://www.youtube.com/watch?v=vHBRmXpDIFY)

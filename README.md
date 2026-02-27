@@ -21,6 +21,7 @@ Useful resources and project ideas to try
 * [AI Tutorial Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 * [DeepSeek from Scratch](https://github.com/DevJadhav/deepseek-from-scratch)
 * [LLM Course - based on the book](https://github.com/mlabonne/llm-course)
+* [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included)
 
 #### Agentic Coding Assistants
 * [DeepLearning - Claude Code: A Highly Agentic Coding Assistant](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/)

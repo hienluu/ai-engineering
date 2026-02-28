@@ -117,11 +117,12 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Agentic AI by Andrew Ng](https://learn.deeplearning.ai/courses/agentic-ai)
   * [Agentic Coding Assistant by Anthropic](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/)
   * [Nvidia NeMo Agent Toolkit](https://www.deeplearning.ai/short-courses/nvidia-nat-making-agents-reliable/)
-* [Claude on Vertex Series"
+* Claude on Vertex Series
   *  [Building Agents with Claude on Vertex AI](https://cloudonair.withgoogle.com/events/building-agents-with-anthropics-claude-on-vertex-ai)
   *  [Deploy multi-agent systems with Claude on Vertex AI](https://cloudonair.withgoogle.com/events/deploy-multi-agent-systems-with-claude-on-vertex-ai)
   *  [Building with advanced agent capabilities](https://www.youtube.com/watch?v=QmFfyX3r0t0)
      *  https://cloudonair.withgoogle.com/events/building-with-advanced-agent-capabilities
+  *  [LI Post](https://www.linkedin.com/posts/ivan-nardini_together-with-anthropic-we-ran-a-three-part-share-7432486092689297410-ud2x/)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

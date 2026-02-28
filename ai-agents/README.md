@@ -123,6 +123,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
   *  [Building with advanced agent capabilities](https://www.youtube.com/watch?v=QmFfyX3r0t0)
      *  https://cloudonair.withgoogle.com/events/building-with-advanced-agent-capabilities
   *  [LI Post](https://www.linkedin.com/posts/ivan-nardini_together-with-anthropic-we-ran-a-three-part-share-7432486092689297410-ud2x/)
+* [Koroku: Build Your Own AI Agent From Scratch github repo](https://github.com/hugobowne/build-your-own-ai-assistant)
+  * [youtube](https://www.youtube.com/watch?v=dDQ4rKXeHRw)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

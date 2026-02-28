@@ -125,6 +125,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
   *  [LI Post](https://www.linkedin.com/posts/ivan-nardini_together-with-anthropic-we-ran-a-three-part-share-7432486092689297410-ud2x/)
 * [Koroku: Build Your Own AI Agent From Scratch github repo](https://github.com/hugobowne/build-your-own-ai-assistant)
   * [youtube](https://www.youtube.com/watch?v=dDQ4rKXeHRw) **MUST VIEW**
+* [YA - AI Agents from Scratch blog](https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-with-pure-python-7d4532202637)
+  * [github repo](https://github.com/cbernecker/AIAgentScratch/blob/master/AIAgent.py)
 
 #### AI Agents Evaluation
 * [LangSmith](https://www.langchain.com/langsmith/observability)

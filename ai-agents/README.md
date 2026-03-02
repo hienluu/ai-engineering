@@ -82,7 +82,10 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
 * [What we learned building agents at Vercel](https://vercel.com/blog/what-we-learned-building-agents-at-vercel)
 
- 
+#### Tool usage
+* [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
+
+  
 #### Context Engineering & System Prompt
 * Context engineering is the delicate art and science of filling the context window with just the right information for the next step - Andrej Karpathy
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)

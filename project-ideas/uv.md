@@ -13,7 +13,7 @@ uv init <name>
 ### create a virtual environment
 uv venv
 
-uv venv <name>
+uv venv "\<name\>"
 
 ### create and activate a new environment with specific python version
 uv venv --python <version>

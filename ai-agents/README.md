@@ -81,6 +81,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [OpenClaw](https://github.com/openclaw/openclaw)
   * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
 * [What we learned building agents at Vercel](https://vercel.com/blog/what-we-learned-building-agents-at-vercel)
+* [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+  * It's the only agent with a built-in learning loop
 
 #### Tool usage
 * [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)

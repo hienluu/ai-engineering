@@ -83,6 +83,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [What we learned building agents at Vercel](https://vercel.com/blog/what-we-learned-building-agents-at-vercel)
 * [Hermes Agent](https://github.com/nousresearch/hermes-agent)
   * It's the only agent with a built-in learning loop
+* [OpenFang - an open-source Agent Operating System](https://github.com/RightNow-AI/openfang)
 
 #### Tool usage
 * [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)

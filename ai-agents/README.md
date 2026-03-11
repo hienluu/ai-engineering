@@ -91,6 +91,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   
 #### Context Engineering & System Prompt
 * Context engineering is the delicate art and science of filling the context window with just the right information for the next step - Andrej Karpathy
+* [Don’t Build Multi-Agents - Principles of Context Engineering by Cognition](https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering)
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)
   * [Context Engineering for Agents - Lance Martin, LangChain ](https://www.youtube.com/watch?v=_IlTcWciEC4)
 * [Claude Code System Prompt](https://github.com/kn1026/cc/blob/main/claudecode.md)

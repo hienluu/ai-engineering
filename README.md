@@ -40,6 +40,7 @@ Useful resources and project ideas to try
 #### OpenClaw
 * [TinyClaw](https://github.com/jlia0/tinyclaw)
 * [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
+* [21 INSANE Use Cases For OpenClaw...](https://www.youtube.com/watch?v=8kNv3rjQaVA)
 
 
 #### Conferences

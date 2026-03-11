@@ -166,6 +166,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [Agentic Design Patterns Part 4, Planning](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning/)
   * [Agentic Design Patterns Part 5, Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration)
 * [AI Agents Definitive Guide - github](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)
+* [AI Agents 101 article series](https://www.linkedin.com/pulse/ai-agents-101-what-why-matter-elaheh-ahmadi-avvte)
+  * [github repo](https://github.com/elahea2020/agentic_software_series)
 
 #### Terminology
 * Workflows: systems where LLMs and tools are orchestrated through predefined code paths

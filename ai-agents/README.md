@@ -136,7 +136,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [YA - AI Agents from Scratch blog](https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-with-pure-python-7d4532202637)
   * [github repo](https://github.com/cbernecker/AIAgentScratch/blob/master/AIAgent.py)
 
-#### AI Agents Evaluation
+#### AI Agents Evaluation & Observability
+* [Agent Trace: open specification for tracking AI-generated code](https://agent-trace.dev/)
+  * [Agent Trace: Capturing the Context Graph of Code by Cognition team](https://cognition.ai/blog/agent-trace#useful-for-eng-management) 
 * [LangSmith](https://www.langchain.com/langsmith/observability)
 * [Opik](https://www.comet.com/site/products/opik)
 * [Maxim](https://www.getmaxim.ai/docs/introduction/overview)

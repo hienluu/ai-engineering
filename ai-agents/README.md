@@ -108,6 +108,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### Course & Tutorials
 * [Google - ADK crash course colab](https://codelabs.developers.google.com/onramp/instructions#1)
+  * [colab notebook](https://colab.research.google.com/drive/1zzTZ8t6aYFbsyrWpGAtmirNdA9R-bbWz#scrollTo=uE5IqZPniuRL)
 * [Microsoft - Python + Agents livestream series](https://github.com/orgs/microsoft-foundry/discussions/331)
 * [UC Berkeley's Agentic AI](https://agenticai-learning.org/f25)
 * [Kaggle - 5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)

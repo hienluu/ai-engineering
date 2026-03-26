@@ -42,6 +42,8 @@ Useful resources and project ideas to try
 * [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
 * [21 INSANE Use Cases For OpenClaw...](https://www.youtube.com/watch?v=8kNv3rjQaVA)
 
+#### All things related to Claude Code
+* [Onyx - self-hostable Chat UI that works with any LLM](https://github.com/onyx-dot-app/onyx))
 
 #### Conferences
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)

@@ -46,6 +46,7 @@ Useful resources and project ideas to try
 * [Onyx - self-hostable Chat UI that works with any LLM](https://github.com/onyx-dot-app/onyx))
 
 #### Conferences
+* [AI Engineering Europe - 2026](https://www.ai.engineer/europe)
 * [AI Engineering Paris](https://www.youtube.com/watch?v=wyUdpmj9-64) [schedule](https://www.ai.engineer/paris#schedule)
 * [AIE Lead](https://www.youtube.com/watch?v=cMSprbJ95jg)
 * [AIE Code](https://www.youtube.com/watch?v=xmbSQz-PNMM)

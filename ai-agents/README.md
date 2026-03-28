@@ -48,7 +48,10 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
 
 #### AI Agent Use Cases
-* [LangChain - Deep Agents (Claude Code clone)]()
+* [LangChain - Deep Agents (Claude Code clone)](https://www.langchain.com/deep-agents)
+  * [Deep Agents - LangChain Academy](https://academy.langchain.com/courses/deep-agents-with-langgraph)
+  * [github repo - Deep Agents is an agent harness. An opinionated, ready-to-run agent out of the box](https://github.com/langchain-ai/deepagents)
+  * [Building Deep Agents with LangChain - a hands on tutorial](https://krishcnaik.substack.com/p/building-deep-agents-with-langchain)
 * [100+ Use Cases For The Enterprise - Moveworks](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
   * Can plan and act over longer, more complex tasks

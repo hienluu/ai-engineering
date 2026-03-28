@@ -85,6 +85,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Hermes Agent](https://github.com/nousresearch/hermes-agent)
   * It's the only agent with a built-in learning loop
 * [OpenFang - an open-source Agent Operating System](https://github.com/RightNow-AI/openfang)
+* [DeerFlow: open-source super agent harness that orchestrates sub-agents, memory, and sandboxes to do almost anything - Bytedance](https://github.com/bytedance/deer-flow)
 
 #### Tool usage
 * [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)

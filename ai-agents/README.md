@@ -48,6 +48,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
 
 #### AI Agent Use Cases
+* [LangChain - Deep Agents (Claude Code clone)]()
 * [100+ Use Cases For The Enterprise - Moveworks](./100-real-world-ai-agent-use-cases-for-the-enterprise.pdf)
 * [Deep Agents Overview](https://blog.langchain.com/deep-agents/)
   * Can plan and act over longer, more complex tasks
@@ -175,6 +176,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [AI Agents Definitive Guide - github](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)
 * [AI Agents 101 article series](https://www.linkedin.com/pulse/ai-agents-101-what-why-matter-elaheh-ahmadi-avvte)
   * [github repo](https://github.com/elahea2020/agentic_software_series)
+* [Creating AI agents from scratch with Python part 1](https://medium.com/towards-artificial-intelligence/creating-an-advanced-ai-agent-from-scratch-with-python-in-2025-part-1-ce74a23f6514)
+* * [Creating AI agents from scratch with Python part 2](https://pub.towardsai.net/creating-an-advanced-ai-agent-from-scratch-with-python-in-2026-part-2-0f41c8d80bff)
 
 #### Terminology
 * Workflows: systems where LLMs and tools are orchestrated through predefined code paths

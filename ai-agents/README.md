@@ -49,6 +49,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
 #### AI Agent Use Cases
 * [Paperclip - If OpenClaw is an employee, Paperclip is the company](https://github.com/paperclipai/paperclip)
+* [Company Research agents](https://github.com/guy-hartstein/company-research-agent)
 * [LangChain - Deep Agents (Claude Code clone)](https://www.langchain.com/deep-agents)
   * [Deep Agents - LangChain Academy](https://academy.langchain.com/courses/deep-agents-with-langgraph)
   * [github repo - Deep Agents is an agent harness. An opinionated, ready-to-run agent out of the box](https://github.com/langchain-ai/deepagents)

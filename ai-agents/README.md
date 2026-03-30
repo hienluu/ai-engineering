@@ -88,6 +88,13 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * Personal AI assistant
   * [OpenClaw](https://github.com/openclaw/openclaw)
   * [nanobot - Ultra-Lightweight Personal AI Assistant](https://github.com/patchy631/nanobot)
+  * OpenClaw architecture series - a good read series
+    * [part 1](https://theagentstack.substack.com/p/openclaw-architecture-part-1-control)
+    * [part 2](https://theagentstack.substack.com/p/openclaw-architecture-part-2-concurrency)
+    * [part 3](https://theagentstack.substack.com/p/openclaw-architecture-part-3-memory)
+    * [part 4](https://theagentstack.substack.com/p/openclaw-architecture-part-4-security)
+    * [part 5](https://theagentstack.substack.com/p/openclaw-architecture-part-5-tools)
+    * [part 6](https://theagentstack.substack.com/p/openclaw-architecture-part-6-reliability)
 * [What we learned building agents at Vercel](https://vercel.com/blog/what-we-learned-building-agents-at-vercel)
 * [Hermes Agent](https://github.com/nousresearch/hermes-agent)
   * It's the only agent with a built-in learning loop

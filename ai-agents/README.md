@@ -46,6 +46,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 * [Building Agents and Eval Harnesses with Local LLMs with Ravin Kumar (Google DeepMind)](https://www.youtube.com/watch?v=Hhwi-2vWMPA)
 * [AI Evals for Everyone - free course](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/ai_evals_for_everyone)
+* [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
 
 #### AI Agent Use Cases
 * [Paperclip - If OpenClaw is an employee, Paperclip is the company](https://github.com/paperclipai/paperclip)

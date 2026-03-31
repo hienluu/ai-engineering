@@ -38,6 +38,7 @@ Useful resources and project ideas to try
 * [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
 
 #### OpenClaw
+* [OpenClaw Mastery for Everyone - good to go through](https://github.com/aishwaryanr/awesome-generative-ai-guide/tree/main/free_courses/openclaw_mastery_for_everyone)
 * [TinyClaw](https://github.com/jlia0/tinyclaw)
 * [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw)
 * [21 INSANE Use Cases For OpenClaw...](https://www.youtube.com/watch?v=8kNv3rjQaVA)

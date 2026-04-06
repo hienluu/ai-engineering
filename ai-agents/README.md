@@ -109,6 +109,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 
   
 #### Context Engineering & System Prompt
+* [12 Agentic Harness Patterns for Claude Code](https://generativeprogrammer.com/p/12-agentic-harness-patterns-from)
 * Context engineering is the delicate art and science of filling the context window with just the right information for the next step - Andrej Karpathy
 * [Don’t Build Multi-Agents - Principles of Context Engineering by Cognition](https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering)
 * [Context Engineering for Agents by Lance Martin](https://rlancemartin.github.io/2025/06/23/context_engineering/)

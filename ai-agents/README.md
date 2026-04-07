@@ -104,6 +104,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [DeerFlow: open-source super agent harness that orchestrates sub-agents, memory, and sandboxes to do almost anything - Bytedance](https://github.com/bytedance/deer-flow)
 * [Self-improving agents](https://kyrylai.com/2026/03/30/self-improving-agent/)
   * [Github](https://github.com/kyryl-opens-ml/self-improving-agent)
+* [Commercial Agents]
+  * [A 24/7 autonomous AI agent you build by describing what you want in plain English. Running in the background scanning your inbox, following up on leads, monitoring prices, and dropping summaries into WhatsApp or Telegram](https://base44.com/superagents)
+  * [Lesse: An AI people-search agent that understands intent rather than just keywords](https://lessie.ai/)
 
 #### Tool usage
 * [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)

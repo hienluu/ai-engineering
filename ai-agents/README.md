@@ -115,6 +115,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 #### Context Engineering & System Prompt
 * [A Guide to Context Engineering for LLMs](https://blog.bytebytego.com/p/a-guide-to-context-engineering-for)
 * [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://www.trychroma.com/research/context-rot)
+  * [youtube video](https://www.youtube.com/watch?v=TUjQuC4ugak)
 * [12 Agentic Harness Patterns for Claude Code](https://generativeprogrammer.com/p/12-agentic-harness-patterns-from)
 * Context engineering is the delicate art and science of filling the context window with just the right information for the next step - Andrej Karpathy
 * [Don’t Build Multi-Agents - Principles of Context Engineering by Cognition](https://cognition.ai/blog/dont-build-multi-agents#principles-of-context-engineering)

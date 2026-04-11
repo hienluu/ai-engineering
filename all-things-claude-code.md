@@ -11,4 +11,7 @@ This page is dedicated to capture resources to help using Claude Code effectivel
 ### Plugins
 * [Claude Diary by Lance Martin](https://rlancemartin.github.io/2025/12/01/claude_diary/)
 
+### Courses & Blogs
+* [Claude code in action course]()
+
 

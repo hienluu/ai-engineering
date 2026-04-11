@@ -32,6 +32,7 @@ Useful resources and project ideas to try
 * [OpenCode: The open source AI coding agent](https://opencode.ai/)
 
 #### Agent Skills
+* [Superpowers - a complete software development workflow for your coding agents](https://github.com/obra/superpowers)
 * [Agent Skill](https://agentskills.io/home)
 * [Anthropic's implementation of skills for Claude - skill repository](https://github.com/anthropics/skills)
 * [Superpowers](https://github.com/obra/superpowers/tree/main)

@@ -111,6 +111,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Commercial Agents]
   * [A 24/7 autonomous AI agent you build by describing what you want in plain English. Running in the background scanning your inbox, following up on leads, monitoring prices, and dropping summaries into WhatsApp or Telegram](https://base44.com/superagents)
   * [Lesse: An AI people-search agent that understands intent rather than just keywords](https://lessie.ai/)
+  * [pi.dev - a minimal terminal coding harness](https://pi.dev/)
 
 #### Tool usage
 * [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)

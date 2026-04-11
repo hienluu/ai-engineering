@@ -33,6 +33,7 @@ Useful resources and project ideas to try
 
 #### Agent Skills
 * [Superpowers - a complete software development workflow for your coding agents](https://github.com/obra/superpowers)
+* [gstack - a virtual engineering team](https://github.com/garrytan/gstack)
 * [Agent Skill](https://agentskills.io/home)
 * [Anthropic's implementation of skills for Claude - skill repository](https://github.com/anthropics/skills)
 * [Superpowers](https://github.com/obra/superpowers/tree/main)

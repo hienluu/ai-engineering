@@ -50,6 +50,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
 
 #### AI Agent Use Cases
+* [SRE Agent MCP Server](https://github.com/benmoggee/sre-agent/tree/main)
 * [open-source infrastructure for managed agents](https://github.com/multica-ai/multica)
 * [Vibe-Trading: your personal trading agent](https://github.com/HKUDS/Vibe-Trading)
 * [Hermes vs OpenClaw](https://www.turingpost.com/p/hermes)

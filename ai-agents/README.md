@@ -41,6 +41,8 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Google ADK](https://google.github.io/adk-docs/)
   * [Google ADK: The One Tool That’s Making AI Agent Development Ridiculously Easy](https://medium.com/google-cloud/google-adk-the-one-tool-thats-making-ai-agent-development-ridiculously-easy-746e1da2b8d6)
 * [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
+* [Claude Agent SDK python](https://github.com/anthropics/claude-agent-sdk-python)
+  * [Building Powerful Agents with the Claude Agent SDK](https://github.com/anthropics/claude-cookbooks/tree/main/claude_agent_sdk)
 
 #### AI Agent Evaluation
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)

@@ -209,6 +209,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [github repo](https://github.com/elahea2020/agentic_software_series)
 * [Creating AI agents from scratch with Python part 1](https://medium.com/towards-artificial-intelligence/creating-an-advanced-ai-agent-from-scratch-with-python-in-2025-part-1-ce74a23f6514)
 * * [Creating AI agents from scratch with Python part 2](https://pub.towardsai.net/creating-an-advanced-ai-agent-from-scratch-with-python-in-2026-part-2-0f41c8d80bff)
+* [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build)
 
 #### Terminology
 * Workflows: systems where LLMs and tools are orchestrated through predefined code paths

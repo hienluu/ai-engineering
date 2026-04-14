@@ -14,5 +14,7 @@ This page is dedicated to capture resources to help using Claude Code effectivel
 
 ### Courses & Blogs
 * [Claude code in action course by Anthropic](https://anthropic.skilljar.com/claude-code-in-action)
+* [Claude code from source - Architecture, Patterns & Internals of Anthropic's AI Coding Agent](https://github.com/alejandrobalderas/claude-code-from-source)
+  * [book](https://claude-code-from-source.com/)
 
 

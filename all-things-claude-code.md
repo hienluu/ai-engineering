@@ -12,6 +12,7 @@ This page is dedicated to capture resources to help using Claude Code effectivel
 ### Hooks
 * [Claude Traces](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace)
   * [from Simon Wilson](https://simonwillison.net/2025/Jun/2/claude-trace/)
+* [Trace Claude Code applications](https://docs.langchain.com/langsmith/trace-claude-code)
 
 ### Plugins
 * [Claude Diary by Lance Martin](https://rlancemartin.github.io/2025/12/01/claude_diary/)

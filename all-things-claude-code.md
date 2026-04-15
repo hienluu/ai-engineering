@@ -1,6 +1,9 @@
 ## All Things Claude Code
 This page is dedicated to capture resources to help using Claude Code effectively, including tips, techniques, skills, plugins, etc.
 
+### Overview & Architecture
+* [Claude Code from Source](https://github.com/alejandrobalderas/claude-code-from-source)
+  * [online book](https://claude-code-from-source.com/ch01-architecture/)
 
 ### Skills
 

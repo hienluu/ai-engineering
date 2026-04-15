@@ -10,6 +10,8 @@ This page is dedicated to capture resources to help using Claude Code effectivel
 ### Commands
 
 ### Hooks
+* [Claude Traces](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace)
+  * [from Simon Wilson](https://simonwillison.net/2025/Jun/2/claude-trace/)
 
 ### Plugins
 * [Claude Diary by Lance Martin](https://rlancemartin.github.io/2025/12/01/claude_diary/)

@@ -214,6 +214,9 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [30-Agents-Every-AI-Engineer-Must-Build](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build)
 * [AI Agents Definite Guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide/tree/main)
 
+#### Potential projects
+* [Code Documentation for Software Development](https://build.nvidia.com/crewai/code-documentation-for-software-development)
+
 #### Terminology
 * Workflows: systems where LLMs and tools are orchestrated through predefined code paths
 * Agent: refers to an entity that can act on behalf of another

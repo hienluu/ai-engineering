@@ -44,6 +44,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
 * [Claude Agent SDK python](https://github.com/anthropics/claude-agent-sdk-python)
   * [Building Powerful Agents with the Claude Agent SDK](https://github.com/anthropics/claude-cookbooks/tree/main/claude_agent_sdk)
 * [Microsoft Agent Framework Version 1.0](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/)
+* [Dapr Agents: A Framework for Agentic AI Systems](https://github.com/dapr/dapr-agents)
 
 #### AI Agent Evaluation
 * [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)

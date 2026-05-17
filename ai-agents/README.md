@@ -178,6 +178,7 @@ managing memory, and executing multi-step plans toward completing complex tasks
   * [youtube](https://www.youtube.com/watch?v=dDQ4rKXeHRw) **MUST VIEW**
 * [YA - AI Agents from Scratch blog](https://levelup.gitconnected.com/building-an-ai-agent-from-scratch-with-pure-python-7d4532202637)
   * [github repo](https://github.com/cbernecker/AIAgentScratch/blob/master/AIAgent.py)
+* [Agentic A Engineering](https://academy.towardsai.net/courses/take/agent-engineering/multimedia/74998057-lesson-0-build-a-research-and-writing-agent-with-mcp)
 
 #### AI Agents Evaluation & Observability
 * [Agent Trace: open specification for tracking AI-generated code](https://agent-trace.dev/)
